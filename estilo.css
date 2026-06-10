@@ -3,6 +3,10 @@
 body{
     background-color: aquamarine;
     color: dodgerblue;
-    font-family: "Ole", cursive;
+    font-family: "Roboto", cursive;
 
+}
+.cabecalho{
+    text-aling:center;
+    background-color: hotpink;
 }
