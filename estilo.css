@@ -7,6 +7,22 @@ body{
 
 }
 .cabecalho{
-    text-aling:center;
+    text-align:center;
     background-color: hotpink;
 }
+
+.cabecalho{
+     background-color: aliceblue;
+        text-align: center;
+     
+
+}
+main{
+       
+        max-width:800px;
+        margin: 0auto;
+        padding:16px;
+}
+    article{
+        display: flex;
+    }
